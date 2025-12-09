@@ -2,7 +2,7 @@ markdown
 # 🏠 SafaHomes AI Interior Design Generator
 
 <div align="center">
-  <img src="C:\Users\shiva\OneDrive\Desktop\Safa_homes\generated_images\all_frames.png" alt="SafaHomes AI Generated Designs" width="900">
+  <img src="generated_images/all_frames.png" alt="SafaHomes AI Generated Designs" width="900">
   <br>
   <em>🎨 Real AI-generated interior and exterior designs created by SafaHomes AI</em>
 </div>
